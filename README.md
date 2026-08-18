@@ -4,7 +4,7 @@
 原作者：ButTaiwan（But Ko）
 ```
 @font-face {
-  font-family: "GenKi-Gothic";
+  font-family: "GenKiGothic";
   font-display: swap;
   font-weight: 300;
   font-style: normal;
@@ -12,7 +12,7 @@
 }
 
 @font-face {
-  font-family: "GenKi-Gothic";
+  font-family: "GenKiGothic";
   font-display: swap;
   font-weight: 400;
   font-style: normal;
@@ -20,7 +20,7 @@
 }
 
 @font-face {
-  font-family: "Genki-Gothic";
+  font-family: "GenkiGothic";
   font-display: swap;
   font-weight: 500;
   font-style: normal;
