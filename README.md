@@ -3,7 +3,6 @@
 
 原作者：ButTaiwan（But Ko）
 ```
-/*
 @font-face {
   font-family: "GenKi-Gothic";
   font-display: swap;
